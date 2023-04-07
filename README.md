@@ -1,1 +1,5 @@
-# ALY6040-Data-Mining-Applications-Winter-2023
+### Developing SVM Models for Credit Status Prediction in R with Caret Package - part 1
+### ABSTRACT
+The objective of this study is to build and assess Support Vector Machine (SVM) models for forecasting credit status with eight levels in a credit application dataset. The code utilizes R's "caret" package to clean and preprocess the data, carry out exploratory data analysis, and train SVM models with the SMOTE algorithm to balance the target class. Two SVM models with linear and radial kernels are trained, and their performance is evaluated on test data using confusion matrices. Next, a 10-fold cross-validation plan is established to train a radial SVM model, and its hyperparameters are tuned using a grid search with five values, and its performance is assessed on test data using a confusion matrix. The code employs various libraries such as data.table, e1071, caret, dplyr, ggplot2, gridExtra, and DMwR to accomplish these tasks.
+
+[Link to my HTML report](https://shahab-f.github.io/ALY6040-Data-Mining-Applications-Winter-2023/ALY6040_-M5_-Final-Project-Draft-Report_-FeghahatiS---rev-4.html)
