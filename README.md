@@ -1,1 +1,1 @@
-# ALY6040-Data-Mining-Applications-Winter-2023
+### To access the projects, kindly refer to the branches.
