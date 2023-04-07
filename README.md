@@ -1,5 +1,1 @@
-### Developing Classification Models for Credit Status Prediction in R
-### ABSTRACT
-The aim of this study is to build accurate classification models in R for predicting credit status with eight levels, ranging from paid off to delayed payments of 150 days or more. The process involves cleaning, preprocessing, and exploring the data, as well as using the SMOTE algorithm to balance the target class. Several models, such as SVM, decision tree, random forest, multinomial logistic regression, neural network, and K-Nearest Neighbors (KNN) models, are trained to compare their performance in predicting credit status. Although the random forest model outperformed the other models, it had poor overall accuracy and a low kappa statistic. The study provides valuable insights into the performance of various models for predicting credit status.
 
-[Link to my HTML report](https://shahab-f.github.io/ALY6040-Data-Mining-Applications-Winter-2023/ALY6040_-M6_-Final-Project-Final-Report_-FeghahatiS---rev-4.html)
