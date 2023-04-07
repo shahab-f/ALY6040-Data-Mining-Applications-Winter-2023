@@ -12,4 +12,4 @@ The study then merges the two datasets, creating a cross-tabulation table and ge
 
 Finally, a Chi-square test is conducted to reveal the relationship between credit status and categorical variables in the dataset. Overall, these preprocessing and EDA steps produce a clean and well-structured dataset, which is essential for accurate data analysis and modeling.
 
-[Link to my HTML report](https://shahab-f.github.io/ALY6040_-M3_-signature-assignment-EDA_-FeghahatiS---rev-7.html)
+[Link to my HTML report](https://shahab-f.github.io/ALY6040-Data-Mining-Applications-Winter-2023/ALY6040_-M3_-signature-assignment-EDA_-FeghahatiS---rev-7.html)
